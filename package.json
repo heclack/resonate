@@ -1,7 +1,7 @@
 {
   "name": "resonate",
   "version": "1.0.0",
-  "description": "",
+  "description": "Yah, this project is totally changing, I have an experiment,,,,",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/heclack/resonate.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -18,6 +17,6 @@
   },
   "homepage": "https://github.com/heclack/resonate#readme",
   "dependencies": {
-    "nodemailer": "^6.4.16"
+    "needle": "^2.5.2"
   }
 }
